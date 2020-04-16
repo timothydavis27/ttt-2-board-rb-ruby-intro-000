@@ -1,3 +1,3 @@
 # Define the variable board below.
-Board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-display_board (board)
+"board
+board = ["a", "b", "c", "d", "x", "e", "f", "g", "h"]
